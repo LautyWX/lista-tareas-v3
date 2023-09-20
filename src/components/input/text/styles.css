@@ -1,0 +1,11 @@
+.input-text{
+    font-size: medium;
+    border: none;
+    border-radius: 10px 0 0 10px;
+    width: 50vw;
+    padding-left: 5px;
+    outline: none;
+}
+.input-text:hover{
+    background-color: rgb(233, 233, 233);
+}

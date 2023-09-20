@@ -1,0 +1,8 @@
+.delete-icon{
+    height: 15px;
+    padding: 0 5px;
+}
+.delete-icon:hover{
+    cursor: pointer;
+    accent-color: green;
+}
