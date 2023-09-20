@@ -1,4 +1,4 @@
-import "./App.css";
+import "./App.scss";
 import Title from "./components/title/Index.jsx";
 import Input from "./components/input/Index";
 import List from "./components/list/Index";

@@ -1,7 +1,7 @@
 import React from 'react'
 import Button from './button/Index'
 import Text from './text/Index'
-import "./styles.css"
+import "./styles.scss"
 import { useState } from 'react'
 
 function Input({addToListaTareas}) {
